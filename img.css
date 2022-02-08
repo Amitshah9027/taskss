@@ -1,0 +1,91 @@
+.img9 {
+  width: 150px;
+  height: 150px;
+  padding-left: 30px;
+  padding-top: 20px;
+  float: left;
+}
+.ioss {
+  width: 180px;
+  height: 180px;
+
+  padding-left: 58px;
+  position: absolute;
+}
+.ioddd {
+  width: 120px;
+  height: 120px;
+
+  padding-left: 100px;
+  padding-top: 60px;
+  transform: rotate(280deg);
+  position: relative;
+}
+.img10 {
+  width: 100px;
+  height: 100px;
+  padding-left: 10px;
+  padding-top: 15px;
+  float: left;
+}
+.img11 {
+  width: 100px;
+  height: 100px;
+  padding-left: 25px;
+  padding-top: 15px;
+  float: left;
+}
+.s {
+  width: 10px;
+  height: 10px;
+}
+.s1 {
+  width: 10px;
+  height: 10px;
+  padding-left: 10px;
+}
+.s2 {
+  width: 23px;
+  height: 23px;
+}
+.s33 {
+  height: 35px;
+  width: 35px;
+  color: black;
+  padding-left: 55px;
+  padding-top: 20px;
+}
+
+.th {
+  font-size: 55px;
+  padding-left: 300px;
+  font-style: thin;
+}
+.th1 {
+  font-size: 25px;
+  padding-left: 380px;
+  font-style: thin;
+}
+.th2 {
+  font-size: 13px;
+  padding-left: 210px;
+  justify-content: right;
+  font-style: thin;
+}
+
+.t1h {
+  font-size: 55px;
+  padding-left: 200px;
+  font-style: thin;
+}
+.t1h1 {
+  font-size: 25px;
+  padding-left: 200px;
+  font-style: thin;
+}
+.t1h2 {
+  font-size: 13px;
+  padding-left: 200px;
+  justify-content: right;
+  font-style: thin;
+}

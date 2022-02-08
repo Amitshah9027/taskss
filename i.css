@@ -1,0 +1,67 @@
+body {
+  background: linear-gradient(
+      0deg,
+      rgba(48, 165, 202, 0.58),
+      rgba(48, 165, 202, 0.58)
+    ),
+    url(rectangle.png);
+
+  width: auto;
+  background-blend-mode: overlay, normal;
+  background-size: 100%;
+  background-repeat: none;
+}
+nav {
+  height: 100px;
+  width: 100%;
+}
+ul {
+  list-style: none;
+}
+li {
+  float: left;
+  color: aliceblue;
+  display: flex;
+}
+.t {
+  padding-left: 20px;
+  height: 50px;
+  width: 50px;
+  padding-top: 5px;
+}
+.t1 {
+  padding-left: 600px;
+  padding-top: 15px;
+}
+.t2 {
+  padding-left: 100px;
+  padding-top: 15px;
+}
+.t3 {
+  padding-left: 100px;
+  padding-top: 15px;
+}
+.t4 {
+  margin-left: 300px;
+  margin-top: 15px;
+  border-radius: 12px;
+  padding-left: 5px;
+  padding-right: 5px;
+  box-shadow: 6px;
+  border-color: white;
+  border-width: thin;
+  border-style: inset;
+}
+
+.in {
+  background-color: whitesmoke transparent;
+  border-radius: 20px;
+  opacity: 0.2;
+  height: 10px;
+  float: left;
+  padding-top: 15px;
+}
+
+.btn {
+  float: left;
+}

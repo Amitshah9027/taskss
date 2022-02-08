@@ -1,0 +1,18 @@
+body {
+  margin: 0%;
+}
+.pi {
+  display: grid;
+
+  height: 870px;
+  width: 100%;
+  background-color: aqua;
+}
+.io {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  place-self: center;
+  align-self: center;
+  border-radius: 50%;
+}
